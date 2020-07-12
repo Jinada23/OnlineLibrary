@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Domain\bin\Debug\netstandard2.0\OnlineLibrary.Domain.deps.json
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Domain\bin\Debug\netstandard2.0\OnlineLibrary.Domain.dll
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Domain\bin\Debug\netstandard2.0\OnlineLibrary.Domain.pdb
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.dll
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.pdb
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Domain\obj\Debug\netstandard2.0\OnlineLibrary.Domain.csprojAssemblyReference.cache

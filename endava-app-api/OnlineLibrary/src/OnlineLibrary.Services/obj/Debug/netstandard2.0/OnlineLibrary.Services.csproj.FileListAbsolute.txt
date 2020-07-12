@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\bin\Debug\netstandard2.0\OnlineLibrary.Services.deps.json
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\bin\Debug\netstandard2.0\OnlineLibrary.Services.dll
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\bin\Debug\netstandard2.0\OnlineLibrary.Services.pdb
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\bin\Debug\netstandard2.0\OnlineLibrary.Data.dll
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\bin\Debug\netstandard2.0\OnlineLibrary.Domain.dll
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\bin\Debug\netstandard2.0\OnlineLibrary.Data.pdb
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\bin\Debug\netstandard2.0\OnlineLibrary.Domain.pdb
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\obj\Debug\netstandard2.0\OnlineLibrary.Services.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\obj\Debug\netstandard2.0\OnlineLibrary.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\obj\Debug\netstandard2.0\OnlineLibrary.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\obj\Debug\netstandard2.0\OnlineLibrary.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\obj\Debug\netstandard2.0\OnlineLibrary.Services.csproj.CopyComplete
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\obj\Debug\netstandard2.0\OnlineLibrary.Services.dll
+C:\Users\User\Desktop\EndavaOnlineLib\endava-app-api\OnlineLibrary\src\OnlineLibrary.Services\obj\Debug\netstandard2.0\OnlineLibrary.Services.pdb
