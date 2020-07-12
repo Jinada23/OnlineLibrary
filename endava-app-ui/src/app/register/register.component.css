@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+.errorMessage {
+    font-size: 80%;
+    color: red;
+}
+.header{
+    margin-bottom: 40px;
+}
+.register-page{
+    padding: 0 70px;
+}
+label{
+    margin-top: 15px;
+}

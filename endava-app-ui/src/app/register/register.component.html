@@ -1,0 +1,70 @@
+<div class="register-page">
+    <div class="row">
+        <div class="col-6">
+            <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+                <div class="form-row">
+                    <div class="col">
+                        <label>Name</label>
+                        <input type="text" class="form-control" placeholder="Name" id="name" formControlName="name">
+                        <span [ngClass]="{errorMessage: name.errors.required}">Must be 4-20 characters long and cannot contain special
+                            symbols.</span>
+                        <!-- <div class="error-message" *ngIf="name.touched; else elseBlock">
+                            <span class="validInput"> Must be 4-20 characters long and cannot contain special
+                                symbols.</span>
+                        </div>
+                        <ng-template #elseBlock>
+                            <span class="invalidInput"> Must be 4-20 characters long and cannot contain special
+                                symbols.</span>
+                        </ng-template> -->
+                            <!-- <span class="validInput"> Must be 4-20 characters long and cannot contain special
+                                symbols.</span> -->
+                            <!-- <div *ngIf="name.invalid && name.touched">
+                        <div *ngIf="name.errors.required">
+                            Name field can not be empty.
+                        </div>
+                    </div> -->
+                </div>
+                            <div class="col">
+                                <label>Email</label>
+                                <input type="text" class="form-control" placeholder="Email" id="emailform"
+                                    formControlName="email">
+                                <span class="errorMessage">Must be a valid email.</span>
+                            </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Password</label>
+                            <input type="password" class="form-control" placeholder="Password" id="passform"
+                                formControlName="password">
+                            <span class="errorMessage">Your password must be 8-20 characters long,
+                                contain at least one letter, one number and one special character.</span>
+                        </div>
+                        <div class="col">
+                            <label>Repeat Password</label>
+                            <input type="password" class="form-control" placeholder="Repeat Password" id="repassform"
+                                formControlName="repass">
+                            <span class="errorMessage">Your passwords must to match.</span>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col-6">
+                            <label>Gender</label>
+                            <select class="form-control">
+                                <option>Another</option>
+                                <option>Male</option>
+                                <option>Female</option>
+                            </select>
+                        </div>
+                        <div class="col-6">
+                            <label>Phone</label>
+                            <input type="text" class="form-control" placeholder="+373../060../60.." id="phoneform"
+                                formControlName="phone">
+                        </div>
+                    </div>
+                    <div class="text-center" style="margin:20px;">
+                        <button type="submit" class="btn btn-warning btn-register" id="register_btn">Register</button>
+                    </div>
+            </form>
+        </div>
+    </div>
+</div>

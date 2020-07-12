@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>UI Application</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="/src/styles.css">
+</head>
+<body>
+    <div class="header">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <ul class="navbar-nav mr-auto" style="margin-left: 30px;">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">About</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="register.html">Register</a>
+                </li>  
+                <li class="nav-item active">
+                    <a class="nav-link" href="loginpage.html">Login</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Contact Us</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container-fluid register-page">
+        <div class="row">
+            <div class="col-6">
+                <span class="errorMessage" id="form_message"></span>
+                <form action="register.html" method="post" id="register-form">
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Name</label>
+                            <input type="text" class="form-control" placeholder="Name" id="nameform">
+                            <span class="errorMessage" id="name_error_message"> Must be 4-20 characters long and cannot contain special symbols.</span>
+    
+                        </div>
+                        <div class="col">
+                            <label>Email</label>
+                            <input type="text" class="form-control" placeholder="Email" id="emailform">
+                            <span class="errorMessage" id="email_error_message">Must be a valid email.</span>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col">
+                            <label>Password</label>
+                            <input type="password" class="form-control" placeholder="Password" id="passform">
+                            <span class="errorMessage" id="pass_error_message">Your password must be 8-20 characters long, contain at least one letter, one number and one special character.</span>
+                        </div>
+                        <div class="col">
+                            <label>Repeat Password</label>
+                            <input type="password" class="form-control" placeholder="Repeat Password" id="repassform">
+                            <span class="errorMessage" id="repass_error_message">Your passwords must to match.</span>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="col-6">
+                            <label>Gender</label>
+                            <select class="form-control">
+                                <option>Another</option>
+                                <option>Male</option>
+                                <option>Female</option>
+                            </select>
+                        </div>
+                        <div class="col-6">
+                            <label>Phone</label>
+                            <input type="text" class="form-control" placeholder="+373../060../60.." id="phoneform">
+                        </div>
+                    </div>
+                    <div class="text-center" style="margin:20px;">
+                        <button type="submit" class="btn btn-warning btn-register" id="register_btn">Register</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    
+</body>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+<script src="jsValidation_copy.js"></script>
+</html>
